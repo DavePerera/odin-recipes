@@ -1,16 +1,29 @@
-
-#main-heading {
-    font-size: 38px;
+* {
     font-family: 'Times New Roman', Times, serif;
+}
+
+.main-heading {
+    font-size: 48px;
     font-weight: 600;
     text-align: center;
     color: rgb(199, 199, 0);
     
 }
 
-.u-list {
+.links {
     font-size: 24px;
-    font-weight: 400;
+    font-weight: 200;
     color: rgb(83, 83, 0);
+
+}
+
+.subpage-heading {
+    font-size: 38px;
+    color: yellowgreen;
+}
+
+#sub-heading {
+    font-size: 24px;
+    color: yellowgreen;
 
 }
